@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 👯 I'm currently contribute to the organization FALIBRAS
 - 📫 How to reach me : [Telegram](https://t.me/BrunoAlcantara)
 - ❤️ Passionate about UX / UI
-- ⚡ Fun fact: I live in Brazil and Bolsonoro is the president
+- ⚡ Fun fact: I live in Brazil and Bolsonaro is the president
