@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-//github icone -- add your github (https://github.com/<your-username>)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/kauemurakami)
+//github icone -- add your github (https://github.com/AlcantaraBruno)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/AlcantaraBruno)
 //github icone -- add your linkedin (https://linkedin.com/in/<your-username>)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/kauemurakami/)
 //github icone -- add your twitter (https://twitter.com/<your-username>)
