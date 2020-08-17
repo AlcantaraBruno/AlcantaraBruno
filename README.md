@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Hello! 👋 Welcome to my profile
 
-- 🔭 I'm currently learning Node, React and React Native with a focus on Frontend
+- 🔭 I'm currently learning Node, React with a focus on Frontend
 - 👯 I'm currently contribute to the organization FALIBRAS
 - 📫 How to reach me : [Telegram](https://t.me/BrunoAlcantara)
 - ❤️ Passionate about UX / UI
