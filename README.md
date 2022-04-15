@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/_bruno_alcantara/)
 
 ### Hello! 👋 Welcome to my profile
-
-- 🔭 I'm currently learning Node, React with a focus on Frontend
-- 👯 I'm currently contribute to the organization FALIBRAS
 - 📫 How to reach me : [Telegram](https://t.me/BrunoAlcantara)
 - ❤️ Passionate about UX / UI
 
